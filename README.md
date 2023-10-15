@@ -26,7 +26,7 @@ The repository is structured as follows:
   - `index.html`: HTML file for the assignment.
   - `style.css`: CSS file for styling the assignment.
   - `script.js`: JavaScript code for interactivity.
-  - `assets/`: Folder for storing images and other assets.
+  - `Resources/`: Folder for storing images and other assets.
 
 Feel free to explore each assignment folder for specific details and code.
 
