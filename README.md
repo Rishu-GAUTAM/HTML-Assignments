@@ -22,11 +22,11 @@ For detailed information about each assignment, please refer to the respective a
 The repository is structured as follows:
 
 - `Assignment/`
-  - `README.md`: Assignment details and instructions.
-  - `index.html`: HTML file for the assignment.
+    - `index.html`: HTML file for the assignment.
   - `style.css`: CSS file for styling the assignment.
   - `script.js`: JavaScript code for interactivity.
   - `Resources/`: Folder for storing images and other assets.
+  - - `live preview.md`Live link of the assignment: 
 
 Feel free to explore each assignment folder for specific details and code.
 
