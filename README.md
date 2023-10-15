@@ -26,7 +26,7 @@ The repository is structured as follows:
   - `style.css`: CSS file for styling the assignment.
   - `script.js`: JavaScript code for interactivity.
   - `Resources/`: Folder for storing images and other assets.
-  - - `live preview.md`Live link of the assignment: 
+  - `live preview.md`Live link of the assignment: 
 
 Feel free to explore each assignment folder for specific details and code.
 
