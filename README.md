@@ -21,7 +21,7 @@ For detailed information about each assignment, please refer to the respective a
 
 The repository is structured as follows:
 
-- `Assignment1/`
+- `Assignment/`
   - `README.md`: Assignment details and instructions.
   - `index.html`: HTML file for the assignment.
   - `style.css`: CSS file for styling the assignment.
